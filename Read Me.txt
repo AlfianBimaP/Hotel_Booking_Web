@@ -1,0 +1,7 @@
+Login for Admin
+Username : admin@gmail.com
+Password : 1234
+
+Login for Customer
+Username(email) : customer@gmail.com
+password : 1234
